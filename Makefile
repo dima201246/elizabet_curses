@@ -2,7 +2,7 @@ VERSION_EL = 4.0
 
 CC = g++
 FLAGS = -Wall -c
-ARCH = 64
+ARCH = $(shell getconf LONG_BIT)
 
 LDFLAGS	= -Llib -lconf_lang_x$(ARCH) -lcalc_x$(ARCH) -Wl,-rpath,lib -lncurses
 
