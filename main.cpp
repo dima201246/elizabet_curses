@@ -65,7 +65,7 @@ void version() {
 	printw("Date build: %s %s\n\n", __TIME__, __DATE__);
 	printw("+++++++++++++++++++++++++++++++++++++\n");
 	printw("+ For contact: dima201246@gmail.com +\n");
-	printw("+     Web site: elizabet-calc.tk    +\n");
+	printw("+    Web site: elizabet-calc.tk     +\n");
 	printw("+++++++++++++++++++++++++++++++++++++\n");
 	printw("*************************************************\n");
 	printw("*                Special thks to:               *\n");
