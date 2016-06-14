@@ -1,0 +1,108 @@
+# :DV company 2016
+# Language - English
+# Encoding - UTF-8
+# Translator - Dmitriy Volchenko (Google Translate)
+# Last update - 05.05.2016
+
+crit_er_par = Critical error! Not Found option!
+primer = Example:%
+result = Result:%
+end_result = Final result:%
+enter_primer = Enter example:%
+any_action = Run something else? (Enter = yes/other button = no)
+press_e_again = To exit, press \"Esc\" again
+press_any_key = Press any key to continue...
+bye_bye = Bye - bye!
+key_press = Button%
+&_key_press = %previous result
+too_long = Too long an example!
+up_to_replace = Press \"
+hello_logo_lang = Hi, I'm Elizabet - your assistant in monotone calculations!
+hello_logo_lang1 = Successful use Dear Friend !!!\nLet me spend a quick tour of the necessary features: \n\n1) The most desired information you can find by clicking the \"h\" - here you will find\nsamy large list of features and how to use them \n2) I support rapid input! you want to write cos? Just click \"c\"\nand I will finish the word for you!\n3) The previous result can be activated by using \"&\"!\n4) All settings in one file! The file \"PinkiePie.conf\" !!!\n\nThe moment is everything, more information is available at the touch of a button \"h\".\n\nAnd remember for the English keyboard layout has to be with me!\n\nSuccessful use Dear Friend !!!
+
+up_to_replace1 = \" again for change action...
+for_add_press_m = To add even more value, press \"Tab\"
+enter_values = Enter the new values (by \";\" or a space):%
+too_low_vals = Too little value!
+too_many_vals = Too many values!
+enter_formul = Enter the formula:%
+not_found_value = Expecting variable!
+not_found_number_of_value = Not detected variable number!
+too_short = Too short formula!
+unknown_op = Unknown operation:%\"
+write_in_formul_prof = Write a formula in the file? (enter = yes\other key = no)
+case_enter_sample = Entry example
+case_work_with_formul = Working with formulas
+calc_formula = Calculate formula? (enter = yes\other key = no)
+
+case_exit = Exit
+help = Help
+version_prog = Software version
+
+enter_formula = Enter the formula
+open_work_fol = Open the folder with the formulas and values
+back = Back
+work_with_files = Working with files
+formula_can_not_be_empty = The formula can not be empty!
+calculete_file = Calculate formula:%
+delete_formula_file = Delete the file with the formula
+a_you_sure = Are you sure? (enter = yes\other key = no)
+cancel = Cancel
+work_with_formul = Working with formulas:
+menu = Menu:
+
+not_found_primer = The formula is not found or is damaged!
+not_found_values = The values not found!
+not_found_values_f = Not found variables!
+now_result = The result of this time:%
+base = base
+number = number
+no_more_values = Variable enough!
+
+press_enter_or_p = Click \"enter\" to calculate or \"Tab\" to add variables...
+
+error_number_of_value = Error number of variables!
+
+hot_keys = Hot keys:\n
+
+hot_keys_znach = \"c\" - insert the cosine (cos), press again to change to the cotangent (ctg)\n\"s\" - insert the square root (sqrt), press again to change to the sine (sin)\n\"l\" - insert logarithm (ln), press again to change to the\nnatural logarithm (log)\n\"t\" - insert tangent (tg)\n\"g\" - insertion of pi (the value is specified in the configuration file)\n\"x\" - insert the exponent (exp)\n\"Esc\" - exit from input mode example/formula/value\n\"p\" - the addition of line with the values, only works in the input mode value\n\"h\" - help
+
+alarm_dir = \n!!!WARNING!!!\nI saw that started in the folder \"Program Files\"!\nIf I do not have administrator rights, then there will be problems!\n\nIf me granted the right,than click \"enter\",\nIf no, please, click any other\nkey and run me as an administrator
+
+error_load_file = Error reading!
+non_comment = Comment not found
+comment = Comment
+enter_key = Selection
+del_key = Deleting a file
+creat_comment = Want to add a comment to the formula? (enter = yes\other key = no)
+enter_comment = Enter a comment to the formula, please:%
+
+for_exit_press_enter = Click to exit, please, \"enter\",\nto cancel, press any other button.
+read_more = More
+number_answer = Number of results:%
+rounding = Rounding
+rounding_num = Up to what number after the decimal point rounding?:%
+rounding_num_m_null = This number must not be less than 1!
+rounding_num_b_null = This number must not be more than 8!
+please_wait = Please wait, the calculations are carried out...
+not_found_work_files = No work files\nTo create a click \"Tab\"
+name_file = File name
+please_input_file_name = Please enter a name for the new file:%
+warning_found_file = Attention! File with this name already exists!\nDubbing - Tab Repeat - Enter Cancel - ESC
+new_file = New file
+
+enter_fm = Please, input name of your file manager:%
+fm_not_found = Not found, try again
+skip_fm = For skip input \"null\"
+not_fm = You have not entered the name of a file manager
+
+my_settings = My settings
+bombs = Bombs
+start_game = Start game
+columns_lang = Columns
+lines_lang = Lines
+about_game = About game
+easy_game = Easy
+medium_game = Medium
+expert_game = Haaard
+select_level = Select level
